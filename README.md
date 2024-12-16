@@ -17,5 +17,13 @@
     - **Pagination** to handle large datasets efficiently.
     - **Row Deletion** with instant updates.
   - [Tic-Tac-Toe Game](https://github.com/souhairSalah/tic-tac-toe-game)  - A React.js project showcasing essential front-end development skills like state management, user interaction, and basic algorithm implementation for winner detection
+- 🛠️ Skills:
+  - Programming Languages: JavaScript, TypeScript
+  - Front-End: React.js, Next.js, Tailwind CSS, HTML5, CSS3
+  - Tools: Git, VSCode, Figma
+- 🎉 Fun fact: I enjoy solving coding challenges and designing user-friendly interfaces.
+- 📈 GitHub Stats:
+  ![Saheer's GitHub Stats](https://github-readme-stats.vercel.app/api?souhairSalah=your-github-souhairSalah&show_icons=true&theme=radical)
+
     
 
