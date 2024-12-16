@@ -22,7 +22,7 @@
   - Front-End: React.js, Next.js, Tailwind CSS, HTML5, CSS3
   - Tools: Git, VSCode, Figma
 - 🎉 Fun fact: I enjoy solving coding challenges and designing user-friendly interfaces.
-- 📈 GitHub Stats:
+  
   ![Saheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souhairSalah&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
     
