@@ -9,7 +9,7 @@
   - [GitHub](https://github.com/souhairSalah)
 
 - 📂 Some of my projects:
-  - [Landing Page]([https://github.com/souhairSalah/interior-design-website]) - A beautifully animated and responsive landing page built with Next.js, Tailwind CSS, and Framer Motion for smooth animations.
+  - [Landing Page](https://github.com/souhairSalah/interior-design-website) - A beautifully animated and responsive landing page built with Next.js, Tailwind CSS, and Framer Motion for smooth animations.
   - [Advanced Table with API]([https://github.com/souhairSalah/table-with-API])  - A feature-rich and professional data table built using React.js, Next.js and Type script integrated with a real API, and styled with Tailwind CSS. The table supports:
   - **Skeleton Loading** for better user experience during data fetching.
   - **Search** to quickly find specific records.
