@@ -23,7 +23,7 @@
   - Tools: Git, VSCode, Figma
 - 🎉 Fun fact: I enjoy solving coding challenges and designing user-friendly interfaces.
   
-  ![Saheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souhairSalah&show_icons=true&hide_title=true&count_private=true&hide=prs)
+  ![Saheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaheerSalah&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
     
 
