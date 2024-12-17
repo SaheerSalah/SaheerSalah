@@ -5,7 +5,7 @@
 - ❓ Ask me about  React.js | Typescript | Next.js | Tailwind css
 - 🔗 Connect with me:
   - [LinkedIn](https://www.linkedin.com/in/saheer-salah-148325253/)
-  - [GitHub](https://github.com/souhairSalah)
+  - [GitHub](https://github.com/SaheerSalah)
 
 - 📂 Some of my projects:
   - [Landing Page](https://github.com/souhairSalah/interior-design-website) - A beautifully animated and responsive landing page built with Next.js, Tailwind CSS, and Framer Motion for smooth animations.
